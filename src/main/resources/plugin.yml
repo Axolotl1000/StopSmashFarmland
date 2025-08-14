@@ -1,0 +1,12 @@
+name: StopSmashFarmland
+version: '1.0'
+main: me.axolotldev.stopSmashFarmland.StopSmashFarmland
+api-version: '1.21'
+prefix: StopSmashFarmland
+authors: [ AxolotlDev ]
+description: Prevents players from smashing farmland
+
+permissions:
+  ssf.bypass:
+    default: false
+    description: Allows a player to bypass farmland protection and smash farmland
